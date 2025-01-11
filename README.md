@@ -3,9 +3,10 @@
 
 <div align="center">
    <a href="https://github.com/swiftv99">
-      <img src="https://github-readme-stats.vercel.app/api?username=swiftv99&show_icons=true&count_private=true&theme=dracula&border_radius=16&custom_title=My GitHub Stats&locale=en" width="512" alt="My GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=swiftv99&show_icons=true&count_private=true&theme=dracula&border_radius=16&locale=en" width="512" alt="My GitHub Stats" />
    </a>
 </div>
+
 **BIO**
 
 - ⚙️ I use mostly: `.py`, `.java`, `.js`, `.c`, `.sql`
