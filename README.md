@@ -2,8 +2,8 @@
 <h3 align="center">Software Engineer | Backend Developer | Distributed Systems Enthusiast</h3>
 
 <div align="center">
-   <a href="https://github.com/swiftv99">
-      <img src="https://github-readme-stats.vercel.app/api?username=swiftv99&show_icons=true&count_private=true&theme=dracula&border_radius=16&locale=en" width="512" alt="My GitHub Stats" />
+   <a href="https://github.com/abdulaziz7225">
+      <img src="https://github-readme-stats.vercel.app/api?username=abdulaziz7225&show_icons=true&count_private=true&theme=dracula&border_radius=16&locale=en" width="512" alt="My GitHub Stats" />
    </a>
 </div>
 
@@ -14,6 +14,7 @@
 - 🌱 I’m currently learning Distributed Systems and Real-Time Backend Architecture
 - 🎓 Pursuing a Master’s in **Distributed Systems Engineering** at **Technical University of Dresden**
 - ⚡ Fun fact: I love debugging systems as much as exploring new technologies!
+- 📑 Check out my website at [**abdulaziz7225.github.io**](https://abdulaziz7225.github.io/) and [**RESUME**](https://gist.github.com/abdulaziz7225/bd66f7f4e870d6bead6c42db324b5788) here
 
 ---
 
