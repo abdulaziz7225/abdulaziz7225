@@ -3,7 +3,10 @@
 
 <div align="center">
    <a href="https://github.com/abdulaziz7225">
-      <img src="https://github-readme-stats.vercel.app/api?username=abdulaziz7225&show_icons=true&count_private=true&theme=dracula&border_radius=16&locale=en" width="512" alt="My GitHub Stats" />
+      <img src="https://github-readme-stats-jet-kappa-49.vercel.app/api?username=abdulaziz7225&show_icons=true&custom_title=My%20GitHub%20Stats&count_private=true&theme=dracula&border_radius=16&locale=en" height="175" alt="My GitHub Stats" />
+   </a>
+   <a href="https://github.com/abdulaziz7225">
+      <img src="https://github-readme-stats-jet-kappa-49.vercel.app/api/top-langs/?username=abdulaziz7225&layout=compact&langs_count=6&theme=dracula&border_radius=16&hide=html,css,scss&locale=en" height="175" alt="Top Languages" />
    </a>
 </div>
 
