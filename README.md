@@ -12,7 +12,7 @@
 
 **BIO**
 
-- ⚙️ I use mostly: `.py`, `.java`, `.js`, `.c`, `.sql`
+- ⚙️ I use mostly: `python`, `rust`, and `go`
 - 👨‍💻 I’m currently working as a Software Engineer (Working Student) at **IAV GmbH**
 - 🌱 I’m currently learning Distributed Systems and Real-Time Backend Architecture
 - 🎓 Pursuing a Master’s in **Distributed Systems Engineering** at **Technical University of Dresden**
@@ -26,7 +26,7 @@
 <p>
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="rust" width="40" height="40" />
-   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/javascript/javascript-original.svg" alt="rust" width="40" height="40" />
+   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/go/go-original.svg" alt="go" width="40" height="40" />
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40" />
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" alt="kubernetes" width="40" height="40" />
@@ -34,5 +34,6 @@
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40" />
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40" />
+   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/githubactions/githubactions-original.svg" alt="github-actions" width="40" height="40" />
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="selenium" width="40" height="40" />
 </p>
